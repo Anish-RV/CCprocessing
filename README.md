@@ -1,0 +1,4 @@
+For this coding problem, I decided to create a Card class to store the information regarding the credit card, including name, card number, balance and credit limit. To access the required card, I am using a HashMap where the key is the card holder's name and the value is the card itself.
+I picked Java as it is the programming language I am most comfortable with using.
+No special setup is required to run my code. You can simply run it from the command line. For the tests, you would need to install JUnit 4 or Junit 5. 
+Looking forward to hearing your feedback and about the next steps in the interview process! 
